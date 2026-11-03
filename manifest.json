@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "oliveralerubio.pixel-autumn-leaves",
+  "name": "Pixel Autumn Leaves",
+  "version": "1.0.0",
+  "author": "oliveralerubio",
+  "description": "Animated pixel art autumn wallpaper with falling leaves. Only shows while the Pixel Autumn theme is active.",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}
